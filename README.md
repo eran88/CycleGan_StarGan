@@ -1,5 +1,5 @@
 
-#CycleGan and Stargan for deep learning course project
+# CycleGan and Stargan for deep learning course project
 
 ## To run cyclegan type:
 > python cyclegan.py <your_model_name> <pretrained_model_name>
