@@ -1,4 +1,6 @@
-# To run cyclegan type:
+#CycleGan and Stargan for deep learning course project
+
+## To run cyclegan type:
 > python cyclegan.py <your_model_name> <pretrained_model_name>
 
 For example, you can train the model on cezanne dataset by changing "monet_folder" to cezanne, and typing:
@@ -9,5 +11,5 @@ Later, you can change back the "monet_folder" to monet30, and use the pretrained
 
 
 
-# To run StarGan type:
+## To run StarGan type:
 > python stargan.py <your_model_name>
