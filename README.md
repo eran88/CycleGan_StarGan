@@ -14,3 +14,9 @@ Later, you can change back the "monet_folder" to monet30, and use the pretrained
 
 ## To run StarGan type:
 > python stargan.py <your_model_name>
+
+## To evaluate cyclegan model type:
+> python fid_cyclegan.py <your_model_name>
+
+## To evaluate stargan model type:
+> python fid_stargan.py <your_model_name>
